@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Melik!
+## Melik Aouididi
  
 👨‍💻 Junior Developer with 3+ years in software engineering, passionate about building efficient web applications<br/>
 🌐 Skilled in Golang, JavaScript, React, AWS, and Docker<br/>
