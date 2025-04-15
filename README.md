@@ -1,6 +1,6 @@
 ## Melik Aouididi
  
-👨‍💻 Junior Developer with 3+ years in software engineering, passionate about building efficient web applications<br/>
+👨‍💻 Mid-senior Developer with 4+ years in software engineering, passionate about building efficient web applications<br/>
 🌐 Skilled in Golang, JavaScript, React, AWS, MySQL and Docker<br/>
 🚀 Passionate about cloud technologies, DevOps, and Agile methodologies<br/>
 💡 Sharing my journey and projects on GitHub and [LinkedIn](https://www.linkedin.com/in/melikaouididi/)<br/>
